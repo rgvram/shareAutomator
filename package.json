@@ -1,0 +1,23 @@
+{
+	"name": "shareautomator",
+	"version": "1.0.0",
+	"description": "Automator to buy/sell shares",
+	"main": "index.js",
+	"scripts": {
+		"run": "node start index.js",
+		"test": "npm dev"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rgvram/shareAutomator.git"
+	},
+	"author": "datlaram",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/rgvram/shareAutomator/issues"
+	},
+	"homepage": "https://github.com/rgvram/shareAutomator#readme",
+	"dependencies": {
+		"fyers-api-v3": "^1.3.0"
+	}
+}
